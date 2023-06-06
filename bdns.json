@@ -450,13 +450,13 @@
   },
   "preqa.epi.tk": {
     "anchoringServices": [
-      "https://pqtk.pla-dev.com"
+      "https://pqtk.pladev.com"
     ],
     "brickStorages": [
-      "https://pqtk.pla-dev.com"
+      "https://pqtk.pladev.com"
     ],
     "notifications": [
-      "https://pqtk.pla-dev.com"
+      "https://pqtk.pladev.com"
     ]
   },
   "preqa.epi.jnj": {
