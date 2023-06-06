@@ -397,12 +397,14 @@
     "anchoringServices": [
       "https://pqadmin.pladev.com",
       "https://pqmsd.pladev.com",
-      "https://pqnah2.pladev.com"
+      "https://pqnah2.pladev.com",
+      "https://pqtk.pladev.com"
     ],
     "brickStorages": [
       "https://pqadmin.pladev.com",
       "https://pqmsd.pladev.com",
-      "https://pqnah2.pladev.com"
+      "https://pqnah2.pladev.com",
+      "https://pqtk.pladev.com"
     ]
   },
   "preqa.epi.admin": {
@@ -448,13 +450,13 @@
   },
   "preqa.epi.tk": {
     "anchoringServices": [
-      "https://pqtk.pla.health"
+      "https://pqtk.pla-dev.com"
     ],
     "brickStorages": [
-      "https://pqtk.pla.health"
+      "https://pqtk.pla-dev.com"
     ],
     "notifications": [
-      "https://pqtk.pla.health"
+      "https://pqtk.pla-dev.com"
     ]
   },
   "preqa.epi.jnj": {
