@@ -4,13 +4,15 @@
       "https://pqadmin.pladev.com",
       "https://pqmsd.pladev.com",
       "https://pqnah2.pladev.com",
-      "https://pqtk.pladev.com"
+      "https://pqtk.pladev.com",
+      "https://pqtest2.pladev.com"
     ],
     "brickStorages": [
       "https://pqadmin.pladev.com",
       "https://pqmsd.pladev.com",
       "https://pqnah2.pladev.com",
-      "https://pqtk.pladev.com"
+      "https://pqtk.pladev.com",
+      "https://pqtest2.pladev.com"
     ]
   },
   "preqa.epi.admin": {
@@ -82,6 +84,14 @@
     ],
     "brickStorages": [
       "https://pqnah2.pladev.com"
+    ]
+  },
+  "preqa.epi.test2": {
+    "anchoringServices": [
+      "https://pqtest2.pladev.com"
+    ],
+    "brickStorages": [
+      "https://pqtest2.pladev.com"
     ]
   },
   "preqa.epi.mah10": {
